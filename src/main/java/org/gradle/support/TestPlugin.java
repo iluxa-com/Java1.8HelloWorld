@@ -6,6 +6,7 @@ package org.gradle.support;
  * second
  *
  *
+ *
  * third
  */
 public class TestPlugin {
