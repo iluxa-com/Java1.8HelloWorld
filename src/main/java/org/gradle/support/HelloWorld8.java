@@ -15,6 +15,7 @@ public class HelloWorld8 {
 		//****** THIS IS MAJOR change
 		//minor
 		//minor2
+		//minor3
 	}
 }
 //comment
