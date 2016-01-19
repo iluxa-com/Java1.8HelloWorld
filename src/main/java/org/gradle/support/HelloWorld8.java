@@ -12,6 +12,7 @@ public class HelloWorld8 {
 		Supplier<String> helloer = () -> "Hello World!!!!!!!" ;
 		// here will be some code
 		System.out.println(helloer.get());
+		//****** THIS IS MAJOR change
 	}
 }
 //comment
