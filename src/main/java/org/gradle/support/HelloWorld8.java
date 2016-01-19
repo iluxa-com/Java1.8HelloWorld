@@ -13,6 +13,7 @@ public class HelloWorld8 {
 		// here will be some code
 		System.out.println(helloer.get());
 		//****** THIS IS MAJOR change
+		//minor
 	}
 }
 //comment
