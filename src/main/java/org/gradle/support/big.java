@@ -694,7 +694,7 @@ public class IssueItem_HtmlTemplateComponent extends TemplateComponent {
             builderContext.appendNewLine();
             builderContext.appendNewLine();
           }
-        }, false, IssueItem_HtmlTemplateComponent.this)));
+        }, false, IssueItem_HtmlTemplateComponent.this))); //major in the end
       }
     };
   }
