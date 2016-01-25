@@ -75,7 +75,7 @@ public class IssueItem_HtmlTemplateComponent extends TemplateComponent {
     super(null, null, "IssueItem", templateParameters);
   }
 
-  public IssueItem_HtmlTemplateComponent() {
+  public IssueItem_HtmlTemplateComponent() {//more minor changes
     super(null, null, "IssueItem");
   }
 
