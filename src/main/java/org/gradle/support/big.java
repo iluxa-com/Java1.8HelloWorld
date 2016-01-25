@@ -320,7 +320,7 @@ public class IssueItem_HtmlTemplateComponent extends TemplateComponent {
       builderContext.decreaseIndent();
       builderContext.appendIndent();
       builderContext.append("</div>");
-      builderContext.appendNewLine();
+      builderContext.appendNewLine();//minor in the middle
     } else {
       {
         TemplateComponent childTemplateComponent;
