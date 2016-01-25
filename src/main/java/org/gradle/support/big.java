@@ -274,7 +274,7 @@ public class IssueItem_HtmlTemplateComponent extends TemplateComponent {
             } else {
               childTemplateComponent = new TagsPanel_HtmlTemplateComponent(null, null, null, childTemplateParameters);
             }
-            childTemplateComponent.setRefName("tp");
+            childTemplateComponent.setRefName("tp"); //more minor changes
           }
           TemplateComponent currentTemplateComponent = builderContext.getCurrentTemplateComponent();
           if (currentTemplateComponent != null) {
