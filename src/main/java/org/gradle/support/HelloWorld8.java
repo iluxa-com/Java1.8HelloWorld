@@ -1,4 +1,4 @@
-package org.gradle.support;
+package org.gradle.support; // comment
 
 import java.util.function.Supplier;
 
