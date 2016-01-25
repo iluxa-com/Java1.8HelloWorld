@@ -14,4 +14,5 @@ public class TestPlugin {
     //2
     //3
     //Major
+    //minor in the middle
 }
