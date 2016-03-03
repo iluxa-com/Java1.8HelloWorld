@@ -10,7 +10,7 @@ package org.gradle.support;
  *
  * third
  */
-public class TestPlugin {
+public class TestPlugin { //edit in PR
     //1
     //2
     //3 ++++
