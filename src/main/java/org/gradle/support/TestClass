@@ -1,0 +1,11 @@
+package org.gradle.support;
+
+import java.util.function.Supplier;
+
+public class TestClass {
+	
+	public static void main(String[] args) {
+		Supplier<String> test = () -> "Hello World!!!!" ;
+		System.out.println(test.get());
+	}
+}
